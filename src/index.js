@@ -5,7 +5,7 @@ import AppHeader from "./components/app-header";
 import SearchPanel from "./components/search-panel";
 import TodoList from "./components/todo-list";
 import ItemStatusFilter from "./components/item-status-filter";
-import "./components/index.css";
+import "./index.css";
 
 const App = () => {
 
